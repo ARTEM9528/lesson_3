@@ -1,0 +1,43 @@
+a {
+   color: rgb(66, 3, 3);
+}
+ol li > a{
+   color: #777;
+}
+.city {
+   color: rgb(238, 10, 10);
+}
+.toponymy {
+   color: rgb(41, 216, 18);
+}
+.geography {
+   color: rgb(6, 207, 243);
+}
+.population {
+   color: rgb(52, 9, 245);
+}
+.health {
+   color: rgb(155, 4, 168);
+}
+.education {
+   color: rgb(121, 2, 2);
+}
+.sport {
+   color: rgb(6, 194, 69);
+}
+h2 {
+   color: #000;
+}
+span {
+   color: rgb(231, 199, 13);
+}
+.geography span{
+   color: rgb(189, 12, 12);
+   }
+.website p {
+   color: rgb(219, 85, 7);
+}
+#section {
+   color: rgb(247, 243, 7);
+}
+
